@@ -1,0 +1,32 @@
+*{
+	box-sizing: border-box;
+}
+.container{
+	box-sizing: border-box;
+	background-color: #8800ff;
+	margin: 50px auto;
+	padding: 25px;
+	width: 40%;
+	height: 250px;
+	border:1px solid #000; /*dotted dashed*/
+	border-top: 5px dashed #005588
+
+}
+nav{
+	padding: 10px;
+	background-color: #eeff88;
+}
+nav ul li{
+	list-style: none;
+	display: inline-block;
+	width: 15%;
+	background-color: #ff6600;
+	padding: 10px;
+	text-align: center;
+}
+nav ul li:hover{
+	background-color: #000;
+}
+nav ul li a{
+	text-decoration: none;
+}

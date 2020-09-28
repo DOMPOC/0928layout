@@ -1,0 +1,71 @@
+*{
+	box-sizing: border-box;
+}
+.container{
+	width: 80%;
+	margin: auto;
+}
+header{
+	margin: auto;
+	box-sizing: 80%;
+}
+header img{
+	border-radius: 8px;
+	display: block;
+	margin: auto;
+	width: 25%;
+}
+h1{
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+	font-size: 90px;	
+}
+.lines{
+	padding: 45px 0;
+	border-top: 3px double #bab5b5;
+	border-bottom:3px double #bab5b5;
+
+}
+fieldset{
+	box-sizing: 80%;
+	margin:30 0 30 0 auto;
+}
+h3{
+	font-family: 'Roboto Slab', serif;
+	font-size: 25px;
+	text-align: center;
+}
+main{
+	box-sizing: border-box;
+	padding: 10px;
+	text-align: center;
+}
+.descr{
+	display:inline-block;
+	width: 320px;
+	height: 320px;
+	margin: 50px auto;
+}
+.fas{
+	color: #decbca
+}
+footer{
+	width: 100%;
+	margin-top: 30px;
+	text-align: center;
+}
+footer{
+	margin-top: 100px;
+	width: 100%;
+
+}
+footer img{
+	height: 25px;
+	width: 25px;
+}
+footer h3,img,p{
+	display: inline-block;
+}
+footer p{
+	color: grey;
+}
